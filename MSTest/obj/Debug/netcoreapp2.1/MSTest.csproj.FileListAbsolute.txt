@@ -1,0 +1,17 @@
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\MSTest.deps.json
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\MSTest.runtimeconfig.json
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\MSTest.runtimeconfig.dev.json
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\MSTest.dll
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\MSTest.pdb
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\TicTacToe.dll
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\bin\Debug\netcoreapp2.1\TicTacToe.pdb
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\obj\Debug\netcoreapp2.1\MSTest.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\obj\Debug\netcoreapp2.1\MSTest.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\obj\Debug\netcoreapp2.1\MSTest.AssemblyInfoInputs.cache
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\obj\Debug\netcoreapp2.1\MSTest.AssemblyInfo.cs
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\obj\Debug\netcoreapp2.1\MSTest.csproj.CopyComplete
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\obj\Debug\netcoreapp2.1\MSTest.dll
+C:\Users\Katarina\source\repos\TicTacToe\MSTest\obj\Debug\netcoreapp2.1\MSTest.pdb

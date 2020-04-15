@@ -1,0 +1,11 @@
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+C:\Users\Katarina\source\repos\TicTacToe\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb
